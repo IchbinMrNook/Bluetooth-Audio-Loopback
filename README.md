@@ -1,4 +1,4 @@
-🎧# Bluetooth Audio Loopback 🔁
+# Bluetooth Audio Loopback 🔁
 A simple Android app to enable Bluetooth microphone-to-speaker loopback audio in real-time.
 
 📲 Features:
