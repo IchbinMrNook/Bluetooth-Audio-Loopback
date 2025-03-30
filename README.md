@@ -27,4 +27,5 @@ Want to improve the app? Feel free to fork the repo and submit a pull request!
 Issues:
 1. Make the app still work even after being closed.
 2. Make the app still work even if screen is off.
+
 ❤️ **Do you know the solution? Submit a Pull request!** ❤️
