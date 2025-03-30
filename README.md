@@ -16,7 +16,7 @@ Open and build the project in Android Studio
 1. Launch the app
 2. Connect you bluetooth headphones to your phone
 3. Click start
-**Done!**
+4. **Done!**
 
 🤝 Contributing:
 Want to improve the app? Feel free to fork the repo and submit a pull request!
