@@ -13,13 +13,10 @@ git clone https://github.com/IchbinMrNook/Bluetooth-Audio-Loopback.git
 Open and build the project in Android Studio
 
 🚀 Usage:
-Launch the app
-
-Connect you bluetooth headphones to your phone
-
-Click start
-
-Done!
+1. Launch the app
+2. Connect you bluetooth headphones to your phone
+3. Click start
+# Done!
 
 🤝 Contributing:
 Want to improve the app? Feel free to fork the repo and submit a pull request!
